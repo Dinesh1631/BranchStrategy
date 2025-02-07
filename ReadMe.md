@@ -1,1 +1,1 @@
-#Branch Stategy to apply it inthe git.
+#Branch Stategy to apply it in the git in clone Version.

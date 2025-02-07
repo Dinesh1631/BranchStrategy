@@ -1,1 +1,1 @@
-#Branch Stategy
+#Branch Stategy to apply it inthe git.
